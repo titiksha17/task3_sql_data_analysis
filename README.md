@@ -5,7 +5,7 @@
 
 ## What's in this repo
 - northwind.db - the database file
-- screenshots/ - screenshots of each query and its output
+- screenshots - screenshots of each query and its output
 - README.md - this file
 
 ## What I did
