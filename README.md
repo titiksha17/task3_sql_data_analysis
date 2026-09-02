@@ -1,12 +1,15 @@
-# Task 3 - SQL for Data Analysis
+# Northwind Order & Revenue Analysis
+Task 3 - SQL for Data Analysis | Elevate Labs Data Analyst Internship
+
 - Internship: Data Analyst Internship (Elevate Labs)
 - Dataset used: Northwind Database (ecommerce-style sample dataset)
 - Tool: SQLite
 
 ## What's in this repo
-- northwind.db - the database file
-- screenshots - screenshots of each query and its output
-- README.md - this file
+- `task3_queries.sql` - all my SQL queries
+- `northwind.db` - the database file
+- `Q1.jpeg` to `Q9.jpeg` - screenshots of each query and its output
+- `README.md` - this file
 
 ## What I did
 I used the Northwind database to practice writing SQL queries for real analysis questions, going from basic filtering all the way up to views and indexing.
